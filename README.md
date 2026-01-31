@@ -766,7 +766,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **GenLayer Website:** [genlayer.com](https://genlayer.com)
 - **Documentation:** [docs.genlayer.com](https://docs.genlayer.com)
 - **Discord:** [discord.gg/genlayer](https://discord.gg/genlayer)
-- **GitHub:** [github.com/yeagerai/genlayer-node](https://github.com/yeagerai/genlayer-node)
 - **Twitter:** [@GenLayer](https://twitter.com/GenLayer)
 
 ---
@@ -797,6 +796,6 @@ Ensure you understand these risks before proceeding. This software is provided "
 
 If you find this helpful, please ⭐ star the repository!
 
-Made with ❤️ by the GenLayer Community
+Made with ❤️ by the HusoNode
 
 </div>
