@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GenLayer Logo](https://genlayer.com/logo.png)
+![GenLayer Logo](https://github.com/aksamlan/Genlayer-Validator-Explorer/raw/main/public/logo.jpg)
 
 **One-Command Validator Setup for GenLayer Network**
 
