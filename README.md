@@ -765,7 +765,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **GenLayer Website:** [genlayer.com](https://genlayer.com)
 - **Documentation:** [docs.genlayer.com](https://docs.genlayer.com)
-- **Discord:** [discord.gg/genlayer](https://discord.gg/genlayer)
+- **Discord:** [discord.gg/genlayer](https://discord.gg/SrtsN3ZU)
 - **Twitter:** [@GenLayer](https://twitter.com/GenLayer)
 
 ---
